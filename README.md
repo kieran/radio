@@ -1,12 +1,18 @@
 # VHF / UHF radio stuff
 
+<img align="right" height="200" src="https://github.com/kieran/radio/assets/3444/6042b686-85a3-444f-8054-591649ec1534">
+
 Mostly a config for my [Baofeng UV-5R](https://share.temu.com/t8gaph1k8tA) radios in Victoria BC.
 
 I bought them in Oct '23 for $31 CAD/ea with free shipping. You should be able to find a similar deal.
 
 ## CHIRP radio config for the BC coast
 
-CHIRP onfig in [`bc-coast.csv`](https://raw.githubusercontent.com/kieran/radio/main/bc-coast.csv)
+[CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home) is a FOSS tool to program many models of radio.
+
+My CHIRP config can be found here: [`bc-coast.csv`](https://raw.githubusercontent.com/kieran/radio/main/bc-coast.csv)
+
+![image](https://github.com/kieran/radio/assets/3444/ead515a0-2d10-4cb4-96d9-3b170f10aaea)
 
 | Channel(s) | description |
 | --- | --- |
