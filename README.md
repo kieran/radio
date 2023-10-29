@@ -1,6 +1,8 @@
 # VHF / UHF radio stuff
 
-Mostly a config for my Baofeng UV-5R radios in Victoria BC.
+Mostly a config for my [Baofeng UV-5R](https://share.temu.com/t8gaph1k8tA) radios in Victoria BC.
+
+I bought them in Oct '23 for $31 CAD/ea with free shipping. You should be able to find a similar deal.
 
 ## CHIRP radio config for the BC coast
 
